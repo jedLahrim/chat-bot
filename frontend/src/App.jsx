@@ -19,7 +19,7 @@ function App() {
 
     setMessage("");
 
-    fetch("https://vercel.com/jedlahrim/chat-bot/", {
+    fetch("https://chat-bot-indol-ten.vercel.app/", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

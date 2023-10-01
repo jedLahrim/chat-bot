@@ -5,7 +5,7 @@ import cors from "cors";
 import dotenv from "dotenv";
 const app = express();
 dotenv.config({path:'.env',debug:true})
-const port = 80;
+const port = 3000;
 app.use(bodyParser.json());
 app.use(cors());
 const configuration = new Configuration({
