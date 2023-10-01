@@ -1,0 +1,11 @@
+{
+  "name": "CHAT BOT AI",
+  "version": "1.0.0",
+  "description": "This is an extension to speak with your developed ai chat bot",
+  "manifest_version": 3,
+  "author": "jed lahrim",
+  "action": {
+    "default_popup": "./frontend/index.html",
+    "default_title": "CHAT BOT AI"
+  }
+}
