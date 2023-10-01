@@ -43,6 +43,8 @@ function App() {
   return (
     <main>
       <h1>CHAT BOT AI</h1>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2795257946759876"
+                crossOrigin="anonymous"></script>
       <section>
         {chats && chats.length
           ? chats.map((chat, index) => (
